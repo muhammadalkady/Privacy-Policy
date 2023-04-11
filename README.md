@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Privacy Policy for Quran Radio App</title>
+	Privacy Policy for Quran Radio App
 </head>
 <body>
 	<h1>Privacy Policy for Quran Radio App</h1>
@@ -19,6 +19,6 @@
 	<p>We may update this Privacy Policy from time to time. If we make any material changes to this Privacy Policy, we will notify you by email or by posting a notice in the app.</p>
 	<h2>Contact Us</h2>
 	<p>If you have any questions or concerns about this Privacy Policy or the Quran Radio app, please contact us at kady.muhammad@gmail.com.</p>
-	<p>Effective Date: 07-04-2023</p>
+	<p>Effective Date: April-2023</p>
 </body>
 </html>
